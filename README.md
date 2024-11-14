@@ -1,3 +1,2 @@
 # PDF-keyword-finder
-# 复制相关代码到jupyternotebook里运行，改关键字用来查找对应文件夹里的PDF位置，可以批量查找
-# 使用前先pip install PyMuPDF
+# 已上传exe文件，直接打开exe文件，搜索你想要的关键字即可。支持2层子文件夹内PDF文件关键字查找。
